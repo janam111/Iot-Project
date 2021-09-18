@@ -1,0 +1,63 @@
+name: flutter_application_9
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.0.4
+  firebase_auth: ^1.1.1
+  http: ^0.13.1
+  flutter_icons: ^1.1.0
+  firebase_database: ^6.1.2
+  cloud_firestore: ^2.1.0
+  syncfusion_flutter_gauges: ^19.1.63
+  fluttertoast: ^8.0.7
+ 
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.9.0
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:  
+  android: true
+  ios: true
+  image_path: "assets/022-watering.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/022-watering.png"
+  
+
+
+flutter:
+
+ 
+  uses-material-design: true
+
+ 
+  assets:
+     - Capture1.PNG
+     - logomain.png
+     - gradient.png
+     - Capture11234.PNG
+     - fridge.png
+     - light.png
+     - waterheater.png
+     - graph1.png
+     - graph2.png
+     - graph3.png
+     - 18405.png
+     - user.png
+  
